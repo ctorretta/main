@@ -1,7 +1,7 @@
 base:   
    '*':
-     - iptables
-     - selinux
+     - nfs
+     - export
    'class:CS126':
      - webserver
      - ssh-client

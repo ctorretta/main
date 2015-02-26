@@ -1,0 +1,2 @@
+/home/public *(ro,sync,all_squash)
+/home/private 192.168.0.0/24(rw,sync,no_root_squash)
